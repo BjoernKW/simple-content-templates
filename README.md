@@ -1,2 +1,2 @@
-# simple-content-templates
+# Simple Content Templates
 Simple Content Templates

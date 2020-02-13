@@ -1,0 +1,6 @@
+{
+    "require": {
+        "objectivco/wp_tabbed_navigation": "^0.1.0",
+        "objectivco/wordpress-simple-settings": "^0.4.0"
+    }
+}
