@@ -2,8 +2,8 @@
 Contributors: clifgriffin, BjoernKW
 Tags: post template, templates, post from template, posts, content template
 Requires at least: 2.5.1
-Tested up to: 4.8.2
-Stable tag: 2.1.8
+Tested up to: 5.3.2
+Stable tag: 2.2.0
 
 Simple, pre-written post content templates for your posts and pages. Use HTML to pre-fill new posts with the default content of your choice.
 
@@ -16,6 +16,10 @@ Many bloggers use a similar format for each of their posts. WordPress doesn't pr
 **Hire Me**
 
 = Version History =
+**Version 2.2.0**
+
+* The plugin has now been tested up to WordPress 5.3.2.
+
 **Version 2.1.8**
 
 * Updates on Friday the 13th are unlucky. Fixed a fatal error. So sorry :-(
