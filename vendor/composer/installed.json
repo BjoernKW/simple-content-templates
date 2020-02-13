@@ -1,0 +1,80 @@
+[
+    {
+        "name": "objectivco/wp_tabbed_navigation",
+        "version": "0.1.0",
+        "version_normalized": "0.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Objectivco/WP_Tabbed_Navigation.git",
+            "reference": "56558a4de366a5e299738e040ad200bc31dedf37"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Objectivco/WP_Tabbed_Navigation/zipball/56558a4de366a5e299738e040ad200bc31dedf37",
+            "reference": "56558a4de366a5e299738e040ad200bc31dedf37",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.0"
+        },
+        "time": "2017-10-13 15:42:14",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/class-wp-tabbed-navigation.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0+"
+        ],
+        "authors": [
+            {
+                "name": "Clifton Griffin",
+                "email": "clif@objectiv.co"
+            }
+        ],
+        "description": "Automate creating a tabbed navigation and maintaining tabbed states",
+        "homepage": "https://github.com/Objectivco/WP_Tabbed_Navigation"
+    },
+    {
+        "name": "objectivco/wordpress-simple-settings",
+        "version": "0.4.0",
+        "version_normalized": "0.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Objectivco/wordpress-simple-settings.git",
+            "reference": "cd67d8a0989e2273e6b9ef49e388270e0cd4a19d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Objectivco/wordpress-simple-settings/zipball/cd67d8a0989e2273e6b9ef49e388270e0cd4a19d",
+            "reference": "cd67d8a0989e2273e6b9ef49e388270e0cd4a19d",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.0"
+        },
+        "time": "2017-06-15 18:26:41",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/wordpress-simple-settings.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0+"
+        ],
+        "authors": [
+            {
+                "name": "Clifton Griffin",
+                "email": "clif@objectiv.co"
+            }
+        ],
+        "description": "A minimalist framework for managing WordPress plugin or theme settings.",
+        "homepage": "https://github.com/Objectivco/wordpress-simple-settings"
+    }
+]
